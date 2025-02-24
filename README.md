@@ -1,1 +1,3 @@
-# .github
+# NerionMC
+
+Site web: nerionmc.fr
